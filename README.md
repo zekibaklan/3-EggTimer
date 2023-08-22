@@ -1,7 +1,7 @@
 
 
 # Egg Timer
-You’ll be building a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
+Egg timer app to boil your eggs the way you prefer.
 
 ## What i used
 
